@@ -1,0 +1,8 @@
+.fb5-page-book .product{
+    clip-path: polygon(0 0, 72% 0, 54% 100%, 0% 100%); 
+    background-color: #F0484D; padding: 50px;
+    color:white
+}
+#fb5 .fb5-page-book h1 {
+    color: #fff !important;
+}
